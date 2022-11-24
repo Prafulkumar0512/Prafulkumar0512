@@ -1,16 +1,19 @@
 ### Hi there 👋
+  
+- 🌱 Currently pursuing Bachelor's in Computer Engineering (Final Year)
+- 📖 Interests: React Native, React, NodeJS, Flask 
+- 🔭 I’m currently exploring ML concepts 
 
-<!--
-**Prafulkumar0512/Prafulkumar0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+  <summary>My github stats</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Prafulkumar0512&count_private=false&theme=react&hide_border=0" />
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>My most used languages</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prafulkumar0512&count_private=false&theme=react&hide_border=1" />
+</details>
+
