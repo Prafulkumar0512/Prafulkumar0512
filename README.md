@@ -1,8 +1,8 @@
 ### Hi there 👋
   
-- 🌱 Currently pursuing Bachelor's in Computer Engineering (Final Year)
+- 🌱 Pursued Bachelor's in Computer Engineering
 - 📖 Interests: React Native, React, NodeJS, Flask 
-- 🔭 I’m currently exploring ML concepts 
+- 🔭 Currently exploring ML/AI concepts 
 
 
 
